@@ -3,7 +3,7 @@
 🚀 **Automation Test Architect | QA Engineering Leader | Framework Specialist**
 
 I am an **Automation Expert with 10+ years of experience** in the software industry, specializing in designing, building, and scaling **robust test automation frameworks**.  
-My core expertise lies in **Selenium with Java**, and I actively work on **Playwright frameworks using TypeScript and Python**.
+My primary expertise is in **architecting and scaling enterprise-grade test automation frameworks using Selenium and Java**, with hands-on experience building **Playwright frameworks in TypeScript and JavaScript** through personal and exploratory projects.
 
 I strongly believe that **quality is an engineering discipline**, not just testing.
 
