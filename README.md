@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santosh Hawle
+# 👋 Hi, I'm Santosh
 
 🚀 **Automation Test Architect | QA Engineering Leader | Framework Specialist**
 
