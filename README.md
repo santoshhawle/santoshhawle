@@ -32,26 +32,16 @@ I strongly believe that **quality is an engineering discipline**, not just testi
 
 ## 🛠️ Favorite Tools & Technologies
 
-### Languages
-- **Java**
-- **TypeScript**
-- **Python**
-
-### Automation & Testing
-- **Selenium WebDriver**
-- **Playwright (TS & Python)**
-- TestNG / JUnit / PyTest
-- REST API Testing
-
-### DevOps & Engineering
-- **Docker**
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- Git & GitHub
-
-### AI & Productivity
-- **GitHub Copilot**
-- GenAI-assisted automation
-- Prompt engineering for testing use cases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
