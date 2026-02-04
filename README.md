@@ -63,6 +63,14 @@ I strongly believe that **quality is an engineering discipline**, not just testi
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.gif" width="70"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.gif" width="70"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.gif" width="70"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.gif" width="70"/>
+</p>
+
+
 
 ---
 
