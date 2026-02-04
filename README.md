@@ -32,43 +32,62 @@ I strongly believe that **quality is an engineering discipline**, not just testi
 
 ## 🛠️ Favorite Tools & Technologies
 
-<table align="center" cellspacing="20">
+<table align="center" cellspacing="24">
   <tr>
-    <td align="center" style="border:3px solid black; padding:20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="64"/><br/>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="72"/><br/>
       <b>Java</b>
     </td>
-    <td align="center" style="border:3px solid black; padding:20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="64"/><br/>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="72"/><br/>
       <b>Selenium</b>
     </td>
-    <td align="center" style="border:3px solid black; padding:20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="64"/><br/>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="72"/><br/>
       <b>Playwright</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="72"/><br/>
+      <b>TypeScript</b>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border:3px solid black; padding:20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64"/><br/>
-      <b>TypeScript</b>
-    </td>
-    <td align="center" style="border:3px solid black; padding:20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="64"/><br/>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="72"/><br/>
       <b>Python</b>
     </td>
-    <td align="center" style="border:3px solid black; padding:20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="64"/><br/>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="72"/><br/>
       <b>Docker</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="72"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="72"/><br/>
+      <b>GitLab</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="72"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="72"/><br/>
+      <b>GitHub Copilot</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="72"/><br/>
+      <b>Jenkins</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:24px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="72"/><br/>
+      <b>Bash</b>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.gif" width="70"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.gif" width="70"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.gif" width="70"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.gif" width="70"/>
-</p>
 
 
 
