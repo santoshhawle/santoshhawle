@@ -32,43 +32,37 @@ I strongly believe that **quality is an engineering discipline**, not just testi
 
 ## 🛠️ Favorite Tools & Technologies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
+<table align="center" cellspacing="20">
+  <tr>
+    <td align="center" style="border:3px solid black; padding:20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="64"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="64"/><br/>
+      <b>Selenium</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="64"/><br/>
+      <b>Playwright</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:3px solid black; padding:20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="64"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" style="border:3px solid black; padding:20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="64"/><br/>
+      <b>Docker</b>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg"
-       width="48"
-       style="padding:10px;border:2px solid #58a6ff;border-radius:12px;margin:6px;" />
-</p>
 
 ---
 
