@@ -118,19 +118,6 @@ I strongly believe that **quality is an engineering discipline**, not just testi
 
 ---
 
-## 👥 Team Leadership (2+ Years)
-
-> Quality culture starts with great people — and great people need the right environment to grow.
-
-- Led a team of **4–6 automation engineers**, defining sprint goals, reviewing PRs, and driving technical decisions
-- Established **team-wide coding standards**, framework conventions, and onboarding documentation
-- Conducted **regular 1:1s**, growth conversations, and skill development plans for team members
-- Collaborated with **product, dev, and DevOps** stakeholders to align QA strategy with delivery goals
-- Championed a **shift-left testing culture** — embedding quality practices early in the SDLC
-- Facilitated **knowledge-sharing sessions**, tech talks, and internal workshops on automation best practices
-
----
-
 ## 🏗️ Microservices & Contract Testing
 
 > Building quality into distributed systems from the ground up.
